@@ -1,0 +1,12 @@
+/*
+!/jobs
+!/.gitignore
+!/*.xml
+jobs/**
+!jobs/**/
+#!jobs/**/nextBuildNumber
+builds
+indexing
+!config.xml
+jobs/**/*workspace
+#!/secret*
